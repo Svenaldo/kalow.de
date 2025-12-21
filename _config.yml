@@ -29,8 +29,8 @@ url: "https://kalow.de" #the base hostname & protocol for your site, e.g. http:/
 github_username:  svenaldo
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-hacker
+theme: minima
+#theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-feed
